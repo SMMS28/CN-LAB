@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 int main()
+
 {
     char byts[500],sd,ed;
     printf("Enter characters to be stuffed: ");
