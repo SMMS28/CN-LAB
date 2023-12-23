@@ -8,6 +8,7 @@ struct node{
 
 int main()
 {
+    
     int costmat[20][20];
     int nodes,i,j,k,count=0;
     printf("Enter the number of nodes :");
