@@ -17,6 +17,7 @@ int main()
     {
         for(j=0;j<nodes;j++)
         {
+            
             scanf("%d",&costmat[i][j]);
             costmat[i][i]=0;
             rt[i].dist[j]=costmat[i][j];
