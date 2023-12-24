@@ -12,7 +12,6 @@ int main() {
     scanf("%d",&data[5]);
     scanf("%d",&data[6]);
     scanf("%d",&data[8]);
- 
     //Calculation of even parity
     data[10]=data[0]^data[2]^data[4]^data[6]^data[8];
     data[9]=data[0]^data[1]^data[4]^data[5]^data[8];
