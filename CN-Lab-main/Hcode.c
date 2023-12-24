@@ -3,7 +3,6 @@
 int main() {
     int data[15];
     int rdata[15],c,c1,c2,c3,i,c4;
- 
     printf("Enter 7 bits of data one by one\n");
     scanf("%d",&data[0]);
     scanf("%d",&data[1]);
