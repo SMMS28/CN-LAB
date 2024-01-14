@@ -4,7 +4,6 @@ struct ed
 {
 	int v1,v2,w;
 }edj[20],temp;
-
 int main()
 {
 	int i,j,n=0,s,d,par[20],s1,d1;
