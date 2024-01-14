@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 struct ed
 {
 	int v1,v2,w;
