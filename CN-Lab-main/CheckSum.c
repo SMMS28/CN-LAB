@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void printCheckSum(int* b1,int* b2,int n)
 {
 int temp[n],carry=0,i,t;
