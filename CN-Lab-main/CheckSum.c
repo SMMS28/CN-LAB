@@ -4,7 +4,7 @@ void printCheckSum(int* b1,int* b2,int n)
 {
 int temp[n],carry=0,i,t;
 	for(i=n-1;i>=0;i--)
-	{
+{
 		t=b1[i]+b2[i]+carry;
 		temp[i]=t%2;
 		carry=t/2;
