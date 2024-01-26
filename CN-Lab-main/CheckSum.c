@@ -11,7 +11,7 @@ int temp[n],carry=0,i,t;
 	}
 	if(carry)
 	{
-		for(i=n-1;i>=0;i--)
+	for(i=n-1;i>=0;i--)
 		{
 			t=temp[i]+carry;
 			temp[i]=t%2;
